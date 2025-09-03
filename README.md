@@ -10,6 +10,4 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohdonghee&show_icons=true&theme=radical)
 
- <h3 align="left">📌 Most Languages </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohdh&layout=compact)
+ 
