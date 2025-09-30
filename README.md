@@ -22,7 +22,7 @@
 ---
 
 ## Honors & Awards
-- **2025-05-23** — Ministry of Education · NRF · Korea Entrepreneurship Foundation, **Student Startup 300+ – Leap Track (General) – Top 60 **
+- **2025-05-23** — Ministry of Education · NRF · Korea Entrepreneurship Foundation, **Student Startup 300+ – Leap Track (General) – Top 60 
 - **2025-02-14** — Ministry of Education & National Research Foundation of Korea, **FLOW Intensive Tech-Entrepreneurship Training – Grand Prize (NRF Chair’s Award)**
 - **2023-09-06** — Chung-Ang University College of Business & Economics **Startup Competition – Excellence Award**
 - **2022-06-30** — **LINC+ Start-up Members – Selected for Support Program**  
